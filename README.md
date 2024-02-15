@@ -13,5 +13,5 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vim,js,html,css,bootstrap,react,ts,nextjs,php,laravel,ruby,rails,python,go,docker,terraform,graphql,postman,mysql,postgresql,aws,gcp,git,github,githubactions,vercel,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=linux,vim,js,html,css,bootstrap,react,ts,nextjs,php,laravel,ruby,rails,python,go,docker,terraform,graphql,postman,mysql,postgresql,aws,gcp,firebase,git,github,githubactions,vercel,figma,vscode,idea" />
 </p>
