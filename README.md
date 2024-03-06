@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenya</h1>
-<h3 align="center">A passionate web developer/ PM/ PdM from Japan</h3>
+<h3 align="center">A passionate web developer/ PdM from Japan</h3>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenya6565&theme=gruvbox" />
