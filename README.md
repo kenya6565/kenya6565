@@ -5,10 +5,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenya6565&theme=gruvbox" />
 </p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenya6565&show_icons=true&theme=gruvbox" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenya6565&theme=gruvbox&layout=compact&langs_count=10" style="height: 195px;" />
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kenya6565&show_icons=true&count_private=true&hide_border=true&title_color=F7931E&icon_color=F7931E&text_color=c9d1d9&bg_color=0d1117" alt="Kenya's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kenya6565&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=F7931E&fire=F7931E&currStreakLabel=F7931E" alt="Kenya's streak stats" />
+</div>
 
 <h3 align="center">Languages and Tools</h3>
 
