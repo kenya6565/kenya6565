@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kenya6565/kenya6565/master/profile-summary-card-output/prussian/4-productive-time.svg)
+```
+
+    
